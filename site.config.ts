@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
+  name: 'Wing Su Blog World',
   domain: 'chaodit.tech',
   author: 'Wing Su',
 
