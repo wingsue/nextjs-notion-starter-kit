@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Wing Su Blog World',
-  domain: 'chaodit.tech',
-  author: 'Wing Su',
+  domain: 'wingsu.one',
+  author: 'WingSu',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
